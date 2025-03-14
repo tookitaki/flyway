@@ -140,7 +140,7 @@
     <properties>
         <version.ant>1.10.13</version.ant>
         <version.appinsights>3.4.7</version.appinsights>
-        <version.aws-java-sdk>2.25.26</version.aws-java-sdk> <!-- TODO: revert back to range once nexus is better -->
+        <version.aws-java-sdk>2.30.38</version.aws-java-sdk> <!-- TODO: revert back to range once nexus is better -->
         <version.aws-secretsmanager>2.0.2</version.aws-secretsmanager>
         <version.azure-identity>1.14.2</version.azure-identity>
         <version.byte-buddy-agent>1.11.18</version.byte-buddy-agent>
