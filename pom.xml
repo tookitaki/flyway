@@ -144,7 +144,7 @@
         <version.aws-secretsmanager>2.0.2</version.aws-secretsmanager>
         <version.azure-identity>1.14.2</version.azure-identity>
         <version.byte-buddy-agent>1.11.18</version.byte-buddy-agent>
-        <version.cassandra>4.11.1</version.cassandra>
+        <version.cassandra>4.16.3</version.cassandra>
         <version.commonslogging>1.2</version.commonslogging>
         <version.commonstext>1.10.0</version.commonstext>
         <version.db2>11.5.0.0</version.db2>
