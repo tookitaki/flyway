@@ -178,7 +178,7 @@
         <version.lombok>1.18.32</version.lombok>
         <version.lombok-maven-plugin>1.18.20.0</version.lombok-maven-plugin>
         <version.mariadb>2.7.11</version.mariadb>
-        <version.maven>3.9.6</version.maven>
+        <version.maven>3.9.7</version.maven>
         <version.mockito>5.10.0</version.mockito>
         <version.msal4j>1.15.1</version.msal4j>
         <version.mssql>12.6.3</version.mssql>
