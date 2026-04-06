@@ -144,7 +144,7 @@
         <version.aws-secretsmanager>2.0.2</version.aws-secretsmanager>
         <version.azure-identity>1.14.2</version.azure-identity>
         <version.byte-buddy-agent>1.11.18</version.byte-buddy-agent>
-        <version.cassandra>4.11.1</version.cassandra>
+        <version.cassandra>4.13.0</version.cassandra>
         <version.commonslogging>1.2</version.commonslogging>
         <version.commonstext>1.10.0</version.commonstext>
         <version.db2>11.5.0.0</version.db2>
@@ -161,7 +161,7 @@
         <version.ignite>2.13.0</version.ignite>
         <version.informix>4.50.3</version.informix>
         <version.jansi>1.18</version.jansi>
-        <version.jackson>2.15.2</version.jackson>
+        <version.jackson>2.21.2</version.jackson>
         <version.jaxb>2.3.1</version.jaxb>
         <version.jaybird>3.0.10</version.jaybird>
         <version.jboss>3.2.15.Final</version.jboss>
